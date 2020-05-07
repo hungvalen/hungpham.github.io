@@ -12,7 +12,7 @@ remote_theme: thelehhman/plainwhite-jekyll
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
+  name: Hung Pham
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
